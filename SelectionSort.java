@@ -1,4 +1,4 @@
-public class Test {
+public class SelectionSort {
 
    public static int [] selectionSort(int x[])
 
